@@ -1,0 +1,4 @@
+interface:
+  display_name: "网页信息采集器"
+  short_description: "从供应商官网自动采集四轮一带产品信息，标准化命名后导出Excel和图片目录"
+  default_prompt: "帮我采集 [供应商官网URL] 的底盘件产品信息"
